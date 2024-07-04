@@ -9,7 +9,7 @@ header{
     flex-direction: row;
     justify-content: start;
     align-items: center;
-    background-image: url(/img/pexels-flodahm-699459.jpg);
+    background-image: url(img/pexels-flodahm-699459.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -139,7 +139,7 @@ footer{
     min-width: 30%;
     background-size: cover;
     background-position-x: left;
-    background-image: url(/img/pexels-olly-840996.jpg);
+    background-image: url(img/pexels-olly-840996.jpg);
 } 
 
 .col-1{
